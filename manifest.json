@@ -1,11 +1,11 @@
 {
 	"dir" : "ltr",
 	"lang" : "en",
-	"name" : "",
+	"name" : "Click Languages: Dutch",
 	"scope" : "/sticky-learning-web/",
 	"display" : "standalone",
 	"start_url" : "https://g33pers.github.io/sticky-learning-web/",
-	"short_name" : "",
+	"short_name" : "Click Languages: Dutch",
 	"theme_color" : "transparent",
 	"description" : "",
 	"orientation" : "any",
